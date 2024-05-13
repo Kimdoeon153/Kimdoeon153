@@ -1,6 +1,8 @@
 ### 이름: 김도언
     관심 분야: 게임 개발쪽
     2d 플랫포머 게임을 좋아함
+    [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
+
     
 
 <!--
