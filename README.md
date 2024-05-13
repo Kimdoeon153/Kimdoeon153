@@ -1,4 +1,7 @@
-### Hi there 👋
+### 이름: 김도언
+    관심 분야: 게임 개발쪽
+    2d 플랫포머 게임을 좋아함
+    
 
 <!--
 **Kimdoeon153/Kimdoeon153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
